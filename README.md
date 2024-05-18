@@ -9,7 +9,7 @@ Hello! I'm Amy Rubinson (she/her), a curious researcher and data storyteller wit
 - College readiness
 - Process development
 - Interdisciplinary and collaborative projects
-- Team leadership and development
+- Team management, leadership and development
 - Educational equity and access
 - STEM education
 - Informal education
@@ -60,7 +60,7 @@ Hello! I'm Amy Rubinson (she/her), a curious researcher and data storyteller wit
 ## Research Highlights
 **Outcomes:**
 - 4 publications of mixed methods research on educational outcomes and over 50 evaluation story reports.
-- Successfully managed a 3,000+ participant database for program evaluation and research.
+- Successfully managed a 7,000-participant database for program evaluation and research.
 
 **Tools:** MS Excel, SPSS, NVivo, Atlas.ti
 
