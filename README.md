@@ -68,7 +68,7 @@ Hello! I'm Amy Rubinson (she/her), a curious researcher and data storyteller wit
 
 ## Leadership Highlights
 **Outcomes:**
-- Led and mentored teams of 3 to 29 people through transitions and challenges including recession, COVID, grant cycles ending, and organizational shifts.
+- Led, mentored, and facilitated HR processes for teams of 3 to 29 people through transitions and challenges including recession, COVID, grant cycles ending, and organizational shifts.
 - Under my leadership, teams enhanced departmental processes, used data science techniques to communicate progress and address challenges, improved project outcomes.
 
 
