@@ -21,7 +21,7 @@ Hello! I'm Amy Rubinson (she/her), a curious researcher and data storyteller wit
 - Developed and optimized over 15 processes and dashboards, improving efficiency and effectiveness.
 - Check out my GitHub repositories to see samples of over 20 projects showcasing a combination of my skills.
 
-**Tools:** MS Excel, Python, Tableau, Power BI, and SQL
+**Tools:** [MS Excel](https://github.com/amrubinson/MS-Excel), [Python](https://github.com/amrubinson/Python), [Tableau](https://github.com/amrubinson/Tableau), [Power BI](https://github.com/amrubinson/Power-BI), and [SQL](https://github.com/amrubinson/SQL)
 
 **Techniques:** Data analysis and visualizations, computer coding for problem statements, data wrangling, advanced analytics (including EDA, regressions, K-means), machine learning, natural language processing, computer vision
 
